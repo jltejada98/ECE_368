@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="PA3_Revised" targetName="PA3_Revised" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce96457e-a3e7-4b17-b122-9418ab6791bb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PA6/seqpair.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PA6/seqpair.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA2-Revised/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PA2-Revised/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PA5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/PA6.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/cmake-build-debug/PA6.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/cmake-build-debug/PA6.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/pa6.c" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/pa6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PA6/proj_seqpair.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../PA6/proj_seqpair.pdf" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pa3.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="jltejada98 &lt;tejada@purdue.edu&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Expected_Output/3.pre" />
+        <option value="$PROJECT_DIR$/delay.c" />
+        <option value="$PROJECT_DIR$/pa3.h" />
+        <option value="$PROJECT_DIR$/pa3.c" />
+        <option value="$PROJECT_DIR$/node.c" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="271" />
+    <option name="y" value="23" />
+    <option name="width" value="1169" />
+    <option name="height" value="826" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PA3_Revised" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PA3-Revised" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="PA3_Revised" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./pa3_testcases/1000000.txt 1000000.pre 1000000.delay" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PA3_Revised" TARGET_NAME="PA3_Revised" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PA3_Revised" RUN_TARGET_NAME="PA3_Revised">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce96457e-a3e7-4b17-b122-9418ab6791bb" name="Default Changelist" comment="" />
+      <created>1553534360266</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553534360266</updated>
+      <workItem from="1553534361556" duration="162000" />
+      <workItem from="1553719410266" duration="1116000" />
+      <workItem from="1553720568402" duration="2139000" />
+      <workItem from="1553736498164" duration="57000" />
+      <workItem from="1553736604047" duration="74000" />
+      <workItem from="1553736970021" duration="12000" />
+      <workItem from="1553737526517" duration="24000" />
+      <workItem from="1553866166093" duration="179000" />
+      <workItem from="1553869768769" duration="13000" />
+      <workItem from="1553870910961" duration="1376000" />
+      <workItem from="1553878468962" duration="6752000" />
+      <workItem from="1553918101798" duration="32000" />
+      <workItem from="1553954106559" duration="3036000" />
+      <workItem from="1553965244621" duration="8000" />
+      <workItem from="1553971913834" duration="179000" />
+      <workItem from="1554032019794" duration="23000" />
+      <workItem from="1554034794741" duration="22000" />
+      <workItem from="1554035309483" duration="695000" />
+      <workItem from="1554049133919" duration="6000" />
+      <workItem from="1554049156706" duration="3203000" />
+      <workItem from="1554070753141" duration="16000" />
+      <workItem from="1554075888700" duration="69000" />
+      <workItem from="1554132052625" duration="706000" />
+      <workItem from="1555418531181" duration="17000" />
+      <workItem from="1555418637029" duration="506000" />
+      <workItem from="1555420863455" duration="12000" />
+      <workItem from="1555422830370" duration="20000" />
+      <workItem from="1555423032892" duration="532000" />
+    </task>
+    <task id="LOCAL-00001" summary="PA3 Revised Progress (Used File Pointers instead of Opening/Closing Files)">
+      <created>1553957349890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553957349890</updated>
+    </task>
+    <task id="LOCAL-00002" summary="PA3 Revised Progress (Added Makefile)">
+      <created>1553957511681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553957511681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="PA3 Revised Progress (Removed print statements)">
+      <created>1553957776765</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1553957776765</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20986000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="271" y="23" width="1169" height="826" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2324756" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32249323" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.3387534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32919955" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27395716" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.39972898" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3292683" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32791328" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10655738" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" visible="true" weight="0.3401084" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3292683" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.39972898" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.3292683" />
+      <window_info anchor="bottom" id="CMake" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3292683" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="make" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="PA3 Revised Progress (Used File Pointers instead of Opening/Closing Files)" />
+    <MESSAGE value="PA3 Revised Progress (Added Makefile)" />
+    <MESSAGE value="PA3 Revised Progress (Removed print statements)" />
+    <option name="LAST_COMMIT_MESSAGE" value="PA3 Revised Progress (Removed print statements)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/pa3.c</url>
+          <line>51</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/pa3.c</url>
+          <line>67</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/node.c</url>
+          <line>173</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/node.c</url>
+          <line>147</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.delay" />
+    <entry file="file://$PROJECT_DIR$/Expected_Output/3.pre">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expected_Output/5.delay.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expected_Output/5.pre">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Inputs/3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expected_Output/3.delay.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/100000.pre" />
+    <entry file="file://$PROJECT_DIR$/1000000.pre" />
+    <entry file="file://$PROJECT_DIR$/delay.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa3.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#118#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa3.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="32" column="70" lean-forward="true" selection-start-line="32" selection-start-column="70" selection-end-line="32" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

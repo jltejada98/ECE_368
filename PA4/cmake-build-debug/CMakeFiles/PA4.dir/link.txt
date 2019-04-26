@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PA4.dir/pa4.c.o CMakeFiles/PA4.dir/build.c.o CMakeFiles/PA4.dir/utility.c.o CMakeFiles/PA4.dir/evaluate.c.o  -o PA4 

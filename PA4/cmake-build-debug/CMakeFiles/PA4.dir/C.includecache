@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/build.c
+pa4.h
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/pa4.h
+
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/evaluate.c
+pa4.h
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/pa4.h
+
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/pa4.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/utility.c
+pa4.h
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/pa4.h
+

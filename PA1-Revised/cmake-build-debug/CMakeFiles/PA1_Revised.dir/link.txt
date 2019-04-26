@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PA1_Revised.dir/pa1.c.o CMakeFiles/PA1_Revised.dir/huffman.c.o  -o PA1_Revised 

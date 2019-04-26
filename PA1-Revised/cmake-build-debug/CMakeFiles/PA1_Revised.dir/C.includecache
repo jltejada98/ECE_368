@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA1-Revised/huffman.h
+
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA1-Revised/pa1.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+huffman.h
+/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA1-Revised/huffman.h
+

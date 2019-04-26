@@ -1,0 +1,875 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"nu",
+				"num_written"
+			],
+			[
+				"out",
+				"output_filename_2"
+			],
+			[
+				"fil",
+				"file_ptr"
+			],
+			[
+				"node",
+				"node"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"lea",
+				"leaf_time"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"nod",
+				"node"
+			],
+			[
+				"r",
+				"r_path"
+			],
+			[
+				"root",
+				"root_node"
+			],
+			[
+				"node_",
+				"node_i"
+			],
+			[
+				"pri",
+				"printf\tprintf …"
+			],
+			[
+				"cu",
+				"current_path_resistance"
+			],
+			[
+				"cap",
+				"capactiance_current"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"de",
+				"delay"
+			],
+			[
+				"len",
+				"length_l"
+			],
+			[
+				"lengt",
+				"length_r"
+			],
+			[
+				"Te",
+				"TreeNode"
+			],
+			[
+				"res",
+				"resistance_path"
+			],
+			[
+				"pa",
+				"resistance_path"
+			],
+			[
+				"fpr",
+				"fprt_2"
+			],
+			[
+				"fp",
+				"fprt_1"
+			],
+			[
+				"in",
+				"input_filename"
+			],
+			[
+				"num",
+				"num_newlines"
+			],
+			[
+				"print",
+				"print_preorder"
+			],
+			[
+				"leng",
+				"length_r"
+			],
+			[
+				"fie",
+				"file_ptr"
+			],
+			[
+				"output_filename_",
+				"output_filename_1"
+			],
+			[
+				"tem",
+				"temp_r"
+			],
+			[
+				"te",
+				"temp_r"
+			],
+			[
+				"sta",
+				"stack_list"
+			],
+			[
+				"new",
+				"new_Node"
+			],
+			[
+				"length",
+				"length_l"
+			],
+			[
+				"REa",
+				"Read_Header"
+			],
+			[
+				"n",
+				"num_nodes"
+			],
+			[
+				"fir",
+				"first_char"
+			],
+			[
+				"fpt",
+				"fptr"
+			],
+			[
+				"inp",
+				"input_stack"
+			],
+			[
+				"int",
+				"input_stack"
+			],
+			[
+				"TE",
+				"TreeNode"
+			],
+			[
+				"S",
+				"Stack"
+			],
+			[
+				"Tree",
+				"TreeNode"
+			],
+			[
+				"num_",
+				"num_nodes"
+			],
+			[
+				"TRee",
+				"TreeNode"
+			],
+			[
+				"char",
+				"char_read"
+			],
+			[
+				"TR",
+				"TreeNode"
+			],
+			[
+				"Hel",
+				"Helper_Delete_List"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"temp",
+				"temp_p"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"lsi",
+				"list"
+			],
+			[
+				"k",
+				"k_sublist"
+			],
+			[
+				"mer",
+				"merged_head"
+			],
+			[
+				"merg",
+				"merged_temp"
+			],
+			[
+				"temp_list",
+				"temp_list_node"
+			],
+			[
+				"temp_node",
+				"temp_node_list"
+			],
+			[
+				"temp_lis",
+				"temp_list"
+			],
+			[
+				"teem",
+				"temp_list_node"
+			],
+			[
+				"templis",
+				"temp_list_node"
+			],
+			[
+				"temp_",
+				"temp_node"
+			],
+			[
+				"lis",
+				"list_head"
+			],
+			[
+				"Lis",
+				"List"
+			],
+			[
+				"Size",
+				"sizeof"
+			],
+			[
+				"He",
+				"Helper_TraverseList"
+			],
+			[
+				"c",
+				"current_k"
+			],
+			[
+				"inde",
+				"index_1"
+			],
+			[
+				"tim",
+				"time_spent"
+			],
+			[
+				"siz",
+				"size"
+			],
+			[
+				"ne",
+				"new_node"
+			],
+			[
+				"se",
+				"sequence"
+			],
+			[
+				"lo",
+				"longs_read"
+			],
+			[
+				"file_",
+				"file_ptr"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"seq",
+				"seq_size"
+			],
+			[
+				"G",
+				"GDBFLAGS"
+			],
+			[
+				"std",
+				"stdio.h\tstandard header"
+			],
+			[
+				"st",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"la",
+				"last_int"
+			],
+			[
+				"TAR",
+				"target_slip_ratio"
+			],
+			[
+				"M",
+				"MAX_SLIP_RATIO"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"ste",
+				"step_tc"
+			],
+			[
+				"to",
+				"torque"
+			],
+			[
+				"ls",
+				"last_execution_time"
+			],
+			[
+				"Last",
+				"last_execution_time"
+			],
+			[
+				"Error",
+				"error_slip_ratio"
+			],
+			[
+				"current",
+				"current_time"
+			],
+			[
+				"pro",
+				"proportional_gain"
+			],
+			[
+				"pr",
+				"proportional_term"
+			],
+			[
+				"Poportion",
+				"proportional_term"
+			],
+			[
+				"rolling",
+				"rolling_friction"
+			],
+			[
+				"curre",
+				"current_torque"
+			],
+			[
+				"max_",
+				"max_torque"
+			],
+			[
+				"curr",
+				"current_torque"
+			],
+			[
+				"cur",
+				"current_torque"
+			],
+			[
+				"inte",
+				"integral_term"
+			],
+			[
+				"proport",
+				"proportional_gain"
+			],
+			[
+				"min",
+				"min_torque"
+			],
+			[
+				"integral",
+				"integral_term"
+			],
+			[
+				"wheel",
+				"wheel_speed"
+			],
+			[
+				"ca",
+				"car_speed"
+			],
+			[
+				"Pedal",
+				"Pedal_P"
+			],
+			[
+				"PEDal",
+				"Pedal_P"
+			],
+			[
+				"PRE",
+				"Press_T"
+			],
+			[
+				"PEDA",
+				"Pedal_P"
+			],
+			[
+				"Tri",
+				"Trigger_T"
+			],
+			[
+				"Thro",
+				"Throttle_P"
+			],
+			[
+				"fre",
+				"frequency_sum"
+			],
+			[
+				"tree",
+				"treenode"
+			],
+			[
+				"List",
+				"ListNode"
+			],
+			[
+				"LI",
+				"ListNode"
+			],
+			[
+				"C",
+				"CharFreq"
+			],
+			[
+				"unique",
+				"num_unique_chars"
+			],
+			[
+				"uni",
+				"num_unique_chars"
+			],
+			[
+				"uniq",
+				"unique_chars"
+			],
+			[
+				"cha",
+				"char_freq_arr"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"wheel_",
+				"wheel_r"
+			],
+			[
+				"whee",
+				"wheel_rim_r"
+			],
+			[
+				"we",
+				"wheel_r"
+			],
+			[
+				"roto",
+				"rotor_i"
+			],
+			[
+				"mot",
+				"motor_rotor_i"
+			],
+			[
+				"motor",
+				"motor_i"
+			],
+			[
+				"mo",
+				"motor_rotor_r"
+			],
+			[
+				"ma",
+				"max_wheel_rps"
+			],
+			[
+				"whel",
+				"wheel_r"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/G++.sublime-build",
+					""
+				],
+				[
+					"Packages/User/GCC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/GCC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packc",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Packa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"local",
+				"Local History: Snapshots"
+			],
+			[
+				"c++",
+				"Build With: C++ Single File"
+			],
+			[
+				"pacl",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/joseluistejada/Downloads/bubble_solve.m",
+		"/Users/joseluistejada/Downloads/bubble.m",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/.idea/ECE368.sublime-project",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/proj_shellsort_2p3q_021019.pdf",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/Makefile",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/.idea/workspace.xml",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA4/proj_avl_trees(1).pdf",
+		"/Users/joseluistejada/Documents/Purdue/Purdue Electric Racing/Traction_Control/FODT Model.py",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/pa3.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/pa3.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/node.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/delay.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/Expected_Output/5.pre",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/Inputs/5.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/Inputs/10.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/Inputs/3.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA3/Inputs/100.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/shell_list.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/shell_array.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/sequence.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/pa2.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW17/bst.h",
+		"/Users/joseluistejada/Documents/Purdue/Purdue Electric Racing/Traction_Control/Traction_Control.c",
+		"/Users/joseluistejada/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/00AFCC3D-8222-45FF-AC4F-FEF2B8FF5D89/tejada.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/Useful Commands.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/Makefile",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW17/README.md",
+		"/Users/joseluistejada/Desktop/PA2/sequence.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/shell_array.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/sequence.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/shell_list.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW12/main.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW12/hw12.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/Useful Commands.txt",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/valgrind1.log",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW17/Makefile",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW19/Makefile",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA1/pa1_examples/huffman.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/1000.b",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/shell_list.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW16/binarytree.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW06/vector.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW10/hw10.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/pa2.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW13/hw13.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/sequence.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/shell_array.h",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/sequence.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/Makefile",
+		"/Users/joseluistejada/Desktop/test.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/shell_array.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/examples/shell_list.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW17/bst.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 1/Computer Engineering 264/ECE264/ECE_264/HW17/main.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/shell list.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/shell array.c",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2/proj_shellsort_2p3q_020919.pdf",
+		"/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Mathematics 266/Euler's Method.c",
+		"/Users/joseluistejada/Desktop/Euler's Method.c",
+		"/Users/joseluistejada/Desktop/FODT Model.py",
+		"/Users/joseluistejada/Documents/Purdue/Purdue Electric Racing/Traction_Control/AMM.705.355.pdf",
+		"/Users/joseluistejada/Documents/Purdue/Purdue Electric Racing/Traction_Control/PID Controller Tutorial.c"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 103.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 103.0
+	},
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Makefile/Make.sublime-build",
+	"project": "ECE368.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"HW10/bmpfunc.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

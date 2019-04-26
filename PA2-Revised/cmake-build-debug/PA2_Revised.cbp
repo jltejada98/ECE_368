@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PA2_Revised"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PA2_Revised">
+				<Option output="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug/PA2_Revised" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 PA2_Revised"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PA2_Revised/fast">
+				<Option output="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug/PA2_Revised" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 PA2_Revised/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/joseluistejada/Documents/Purdue/Year\ 2/Semester\ 2/Computer\ Engineering\ 368/ECE_368/PA2-Revised/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/pa2.c">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/sequence.c">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/sequence.h">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/shell_array.c">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/shell_array.h">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/shell_list.c">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/shell_list.h">
+			<Option target="PA2_Revised"/>
+		</Unit>
+		<Unit filename="/Users/joseluistejada/Documents/Purdue/Year 2/Semester 2/Computer Engineering 368/ECE_368/PA2-Revised/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/PA2_Revised.dir/pa2.c.o CMakeFiles/PA2_Revised.dir/shell_array.c.o CMakeFiles/PA2_Revised.dir/shell_list.c.o CMakeFiles/PA2_Revised.dir/sequence.c.o  -o PA2_Revised 
