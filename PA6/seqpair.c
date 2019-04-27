@@ -18,7 +18,7 @@ rect * load_input(FILE * fptr, int ** seq_1, int ** seq_2, int * num_rect){
     }
 
     //Read rectangles and store into array.
-    rect * rectangle_array = malloc(sizeof(rect) * (*num_rect + 1));
+    rect * rectangle_array = malloc(sizeof(rect) * (*num_rect));
 
     if(rectangle_array == NULL){
         printf("Could not allocate memory for rectangle array");
@@ -28,16 +28,6 @@ rect * load_input(FILE * fptr, int ** seq_1, int ** seq_2, int * num_rect){
     int temp_label = 0;
     double temp_width = 0;
     double temp_height = 0;
-
-    //Instatiate Start node
-    rectangle_array[*num_rect].label = 0;
-    rectangle_array[*num_rect].width = 0;
-    rectangle_array[*num_rect].height = 0;
-    rectangle_array[*num_rect].x = 0;
-    rectangle_array[*num_rect].y = 0;
-    rectangle_array[*num_rect].indegree_x = 0;
-    rectangle_array[*num_rect].indegree_y = 0;
-    rectangle_array[*num_rect].next = NULL;
 
     for (int i = 0; i < (*num_rect); ++i) {
         check_read = fscanf(fptr, "%d(%le,%le)\n", &temp_label, &temp_width, &temp_height);
@@ -266,20 +256,22 @@ int Process_Input_Vertical(int * seq_1, int * seq_2, rect * rectangle_array, int
 }
 
 
-void DFS_Horizontal(rect * rectangle_array, int size){
-    rect *temp = &rectangle_array[size];
+void DFS_Horizontal(rect * rectangle_horiz, int size){
+//    Increment degree of nodes from start.
+    rect *start = malloc(sizeof(rect));
+    rect *temp = start;
     for (int i = 0; i < size; ++i) {
-        if (rectangle_array[i].indegree_x == 0) {
-            rectangle_array[i].indegree_x = 1;
-            temp->next = Add_Edge(rectangle_array[i]);
+        if (rectangle_horiz[i].indegree_x == 0) {
+            rectangle_horiz[i].indegree_x = 1;
+            temp->next = Add_Edge(rectangle_horiz[i]);
             temp = temp->next;
         }
     }
 
-    printf("Rectangle Check \n");
-    for (int i = 0; i <=size ; ++i) {
-        printf("Rectangle: %d, IN: (%d) ->", rectangle_array[i].label,rectangle_array[i].indegree_x);
-        rect *temp = rectangle_array[i].next;
+    printf("Rectangle Check\n");
+    for (int i = 0; i < size ; ++i) {
+        printf("Rectangle: %d, IN: (%d) ->", rectangle_horiz[i].label,rectangle_horiz[i].indegree_x);
+        rect *temp = rectangle_horiz[i].next;
         while(temp != NULL){
             printf("%d ->", temp->label);
             temp = temp->next;
@@ -287,64 +279,85 @@ void DFS_Horizontal(rect * rectangle_array, int size){
         printf("\n");
     }
 
-    temp = rectangle_array[size].next;
-    int index;
-    while(temp != NULL){
-        index = temp->label - 1;
-        dfs_horizontal(rectangle_array,index,0);
-        temp = temp->next;
+    //Print start node
+    rect *temp1 = start;
+    while(temp1 != NULL){
+        printf("%d ->\n", temp1->label);
+        temp1 = temp1->next;
+    }
+
+    //Possibility must sort nodes.
+    temp1 = start->next;
+    while(temp1 != NULL){
+        dfs_horizontal(rectangle_horiz, temp1->label - 1, 0);
+        temp1 = temp1->next;
     }
 
 }
 
-void dfs_horizontal(rect *rectangle_array, int rect_index, double distance){
-    rect *current = &rectangle_array[rect_index];
+void dfs_horizontal(rect *rectangle_horiz, int rect_index, double distance){
+    rect *current = &rectangle_horiz[rect_index];
     rect *next = current->next;
 
     if(current->x < distance){
         current->x = distance;
     }
     (current->indegree_x)--;
-    if(current->indegree_x == 0){
+    if(current->indegree_x <= 0){
+        int updated_distance = 0; //Update Current Distance, takes care of indegree 0 node.
+        if((distance + current->x) < (distance + current->width)){
+            updated_distance = distance + current->width;
+        }
+        else{
+            updated_distance = distance + current->x;
+        }
         while(next != NULL){
             int next_index = next->label - 1;
-            dfs_horizontal(rectangle_array, next_index, distance + current->width);
+            //Change distance + current->width to distance + current->x
+            dfs_horizontal(rectangle_horiz, next_index, updated_distance);
             next = next->next;
         }
     }
 }
 
-void DFS_Vertical(rect * rectangle, int size){
+void DFS_Vertical(rect * rectangle_array, int size){
+    //Increment degree of nodes from start.
+    for (int i = 0; i < size; ++i) {
+        if (rectangle_array[i].indegree_y == 0) {
+            rectangle_array[i].indegree_y = 1;
+        }
+    }
+
+
     //Visit All Nodes and recursively call dfs.
     for (int array_index = 0; array_index < size; ++array_index) {
-        dfs_vertical(rectangle,array_index, 0);
+        dfs_vertical(rectangle_array,array_index, 0);
     }
 
 }
 
 void dfs_vertical(rect *rectangle_array, int rect_index, double distance){
-    //Consider Traversing the Current node in adjancency list.
-    rect * temp_val_current = &rectangle_array[rect_index];
-    rect * temp_val_next = temp_val_current->next;
+    rect *current = &rectangle_array[rect_index];
+    rect *next = current->next;
 
-    int visiting_index = 0;
-    double updated_distance = 0;
-    while(temp_val_next != NULL){ //Continue to recursively call until all paths have been taken.
-        if(temp_val_current->y < distance){//Check if the current distance stored at the node is less than the current distance tarveled.
-            temp_val_current->y = distance;
-        }
-        visiting_index = (temp_val_next->label - 1);
-        updated_distance = temp_val_current->height + distance;
-        if(rectangle_array[visiting_index].y < updated_distance){
-            dfs_vertical(rectangle_array, visiting_index, updated_distance); //Recursive call
-        }
-
-        //Travel Along adjacency list.
-        temp_val_next = temp_val_next->next;
+    if(current->y < distance){
+        current->y = distance;
     }
-
-    if((temp_val_current->y < distance)){ //Check if the current distance stored at the node is less than the current distance tarveled.
-        temp_val_current->y = distance;
+    (current->indegree_y)--;
+    if(current->indegree_y == 0){
+        int updated_distance = 0; //Update Current Distance, takes care of indegree 0 node.
+        if((distance + current->y) < (distance + current->height)){
+            updated_distance = distance + current->height;
+        }
+        else{
+            updated_distance = distance + current->y;
+        }
+        while(next != NULL){
+            int next_index = next->label - 1;
+            //Change distance + current->width to distance + current->x
+            dfs_horizontal(rectangle_array, next_index, updated_distance);
+            next = next->next;
+        }
     }
 }
 
@@ -385,22 +398,13 @@ void Pre_Processing(int ** seq_1, int ** seq_2, int ** index_sequence_1, int ** 
 
 
 rect * Pre_Processing_Rectangles(rect * rectangle, int size){
-    rect * rectangle_copy = malloc(sizeof(rect) *  (size + 1));
+    rect * rectangle_copy = malloc(sizeof(rect) *  size);
 
     if(rectangle_copy == NULL){
         return  NULL;
     }
 
     //Instatiate Start node
-    rectangle_copy[size].label = 0;
-    rectangle_copy[size].width = 0;
-    rectangle_copy[size].height = 0;
-    rectangle_copy[size].x = 0;
-    rectangle_copy[size].y = 0;
-    rectangle_copy[size].indegree_x = 0;
-    rectangle_copy[size].indegree_y = 0;
-    rectangle_copy[size].next = NULL;
-
     for (int i = 0; i < size; ++i) {
         rectangle_copy[i].label = rectangle[i].label;
         rectangle_copy[i].width = rectangle[i].width;

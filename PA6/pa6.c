@@ -78,20 +78,16 @@ int main(int argc, char const *argv[]) {
         free_rectangle_array(rectangle_copy, num_rect);
         return EXIT_FAILURE;
     }
-
 //    //Determine Longest path to rectangles in HCG using DFS.
-    printf("Performing Horizontal\n");
     DFS_Horizontal(rectangle_array, num_rect);
 
-    for (int j = 0; j < num_rect; ++j) {
-        printf("Label %d : X-Coordinate: %le \n", rectangle_array[j].label, rectangle_array[j].x);
+    for (int j = 0; j < num_rect ; ++j) {
+        printf("Label : %d, X= %le\n",rectangle_array[j].label, rectangle_array[j].x);
     }
 
-
-
     printf("Rectangle Check Copy\n");
-    for (int i = 0; i <= num_rect ; ++i) {
-        printf("Rectangle: %d, IN: %d ->", rectangle_copy[i].label,rectangle_copy[i].indegree_y);
+    for (int i = 0; i < num_rect ; ++i) {
+        printf("Rectangle: %d, IN: (%d) ->", rectangle_copy[i].label,rectangle_copy[i].indegree_y);
         rect *temp = rectangle_copy[i].next;
         while(temp != NULL){
             printf("%d ->", temp->label);
@@ -100,11 +96,12 @@ int main(int argc, char const *argv[]) {
         printf("\n");
     }
 
-
-
-//    //Determine Longest path to rectangles in HCG using DFS.
+//    //Determine Longest path to rectangles in VCG using DFS.
     DFS_Vertical(rectangle_copy, num_rect);
 
+    for (int j = 0; j < num_rect ; ++j) {
+        printf("Label : %d, Y= %le\n",rectangle_copy[j].label, rectangle_copy[j].y);
+    }
 
     //Attempt to open Output File
     FILE *fptr_output = fopen(output_filename, "w");

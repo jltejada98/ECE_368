@@ -11,7 +11,18 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cf4ef63-8c21-453a-8dd9-6fc7451e01cc" name="Default Changelist" comment="" />
+    <list default="true" id="2cf4ef63-8c21-453a-8dd9-6fc7451e01cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/r8_original.sp" beforeDir="false" afterPath="$PROJECT_DIR$/Input/r8.sp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PA6.dir/pa6.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PA6.dir/pa6.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PA6.dir/seqpair.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/PA6.dir/seqpair.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PA6" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PA6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/PA6.dSYM/Contents/Resources/DWARF/PA6" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/PA6.dSYM/Contents/Resources/DWARF/PA6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pa6.c" beforeDir="false" afterPath="$PROJECT_DIR$/pa6.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seqpair.c" beforeDir="false" afterPath="$PROJECT_DIR$/seqpair.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seqpair.h" beforeDir="false" afterPath="$PROJECT_DIR$/seqpair.h" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pa6.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1365">
-              <caret line="91" column="4" selection-start-line="91" selection-start-column="4" selection-end-line="100" selection-end-column="5" />
+            <state relative-caret-position="251">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
             </state>
           </provider>
         </entry>
@@ -37,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/seqpair.c">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="300" selection-start-line="300" selection-end-line="300" />
+            <state relative-caret-position="251">
+              <caret line="295" selection-start-line="295" selection-end-line="295" />
             </state>
           </provider>
         </entry>
@@ -46,8 +57,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/seqpair.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+            <state relative-caret-position="555">
+              <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
               <folding>
                 <element signature="e#98#116#0" expanded="true" />
               </folding>
@@ -58,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+            <state relative-caret-position="495">
+              <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -86,19 +97,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pa6.c" />
         <option value="$PROJECT_DIR$/Makefile" />
         <option value="$PROJECT_DIR$/seqpair.h" />
+        <option value="$PROJECT_DIR$/pa6.c" />
         <option value="$PROJECT_DIR$/seqpair.c" />
       </list>
     </option>
   </component>
   <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-2" />
     <option name="y" value="23" />
-    <option name="width" value="759" />
-    <option name="height" value="826" />
+    <option name="width" value="1495" />
+    <option name="height" value="1126" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -112,6 +122,11 @@
             <path>
               <item name="PA6" type="b2602c69:ProjectViewProjectNode" />
               <item name="PA6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PA6" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PA6" type="462c0819:PsiDirectoryNode" />
+              <item name="Expected" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,7 +155,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="PA6" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./Input/r8_original.sp r8_original.pck" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PA6" TARGET_NAME="PA6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PA6" RUN_TARGET_NAME="PA6">
+    <configuration name="PA6" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="./Input/r8.sp r8.pck" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="PA6" TARGET_NAME="PA6" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="PA6" RUN_TARGET_NAME="PA6">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -192,6 +207,9 @@
       <workItem from="1556233169372" duration="17903000" />
       <workItem from="1556281658515" duration="3138000" />
       <workItem from="1556299923943" duration="460000" />
+      <workItem from="1556302079647" duration="4549000" />
+      <workItem from="1556319647242" duration="6266000" />
+      <workItem from="1556326078165" duration="739000" />
     </task>
     <task id="LOCAL-00001" summary="PA6 Progress (Succesfully Read Rectangle Dimension Data, Sequence 1 and 2 have Errors">
       <created>1555426737993</created>
@@ -323,27 +341,37 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113060000" />
+    <option name="totallyTimeSpent" value="124614000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="23" width="1442" height="826" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1126" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18142857" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13951011" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.4972752" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49955714" weight="0.48773843" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928468" weight="0.49709865" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49955714" weight="0.44003868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32978722" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32561308" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32495165" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" weight="0.4972752" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.32978722" />
       <window_info anchor="bottom" id="CMake" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3147139" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.31431335" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -402,19 +430,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/pa6.c</url>
-          <line>105</line>
-          <option name="timeStamp" value="7" />
+          <url>file://$PROJECT_DIR$/seqpair.c</url>
+          <line>343</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/seqpair.c</url>
-          <line>299</line>
-          <option name="timeStamp" value="15" />
+          <line>270</line>
+          <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
           <url>file://$PROJECT_DIR$/seqpair.c</url>
-          <line>289</line>
-          <option name="timeStamp" value="24" />
+          <line>290</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/seqpair.c</url>
+          <line>302</line>
+          <option name="timeStamp" value="40" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -431,7 +464,6 @@
     <entry file="file://$PROJECT_DIR$/Expected/r100v.pck" />
     <entry file="file://$PROJECT_DIR$/Expected/r100h.pck" />
     <entry file="file://$PROJECT_DIR$/Expected/r100.pck" />
-    <entry file="file://$PROJECT_DIR$/Expected/r8.pck" />
     <entry file="file:///usr/include/stdlib.h">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -444,17 +476,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/r5.pck" />
     <entry file="file://$PROJECT_DIR$/r8_original.pck" />
-    <entry file="file://$PROJECT_DIR$/pa6.c">
+    <entry file="file://$PROJECT_DIR$/r8.pck">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expected/r20.pck">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1365">
-          <caret line="91" column="4" selection-start-line="91" selection-start-column="4" selection-end-line="100" selection-end-column="5" />
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Input/r5.sp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/seqpair.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="555">
+          <caret line="37" column="11" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
           <folding>
             <element signature="e#98#116#0" expanded="true" />
           </folding>
@@ -463,15 +501,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+        <state relative-caret-position="495">
+          <caret line="33" column="41" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pa6.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Expected/r8.pck">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/seqpair.c">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="300" selection-start-line="300" selection-end-line="300" />
+        <state relative-caret-position="251">
+          <caret line="295" selection-start-line="295" selection-end-line="295" />
         </state>
       </provider>
     </entry>

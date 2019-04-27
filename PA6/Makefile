@@ -26,7 +26,7 @@ testmemory: $(TARGET)
 testall: test0 test1 test2 test3 test4 test5 test6 test7 test8 test9 test10 test11 test12
 
 test0: $(TARGET)
-	time ./$(TARGET) ./Input/r8_original.sp r8_original.pck
+	time ./$(TARGET) ./Input/r8.sp r8.pck
 	diff r8_original.pck Expected/r8.pck
 
 
